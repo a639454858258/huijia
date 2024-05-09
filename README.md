@@ -32,7 +32,7 @@
   <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="150"> 
   <p>官网（大陆线路  无需vpn）：https://www.mangacopy.com/</p>
   <p>官网（海外线路）：https://www.copymanga.site/</p>
-  <p>官网APP下载地址（需连接vpn才可下载，否则安装包会显示暂未开放）：https://www.mangacopy.com/download</p><br>
+  <p>官网APP下载地址（需连接vpn才可下载，否则安卓下载会显示暂未开放）：https://www.mangacopy.com/download</p><br>
   
 
   
