@@ -11,17 +11,22 @@
   <img src="https://github.com/WRR2001/comics/assets/74068138/042fa752-a021-488f-b4a2-8fd51abfa229" width="150">
   <p> 官方github资源地址：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases</p>
   
-  
 ### 彩e
   <img src="https://github.com/WRR2001/comics/assets/74068138/14e428e7-f304-4c4b-8626-feafb69c82fc" width="150">
-  <p> 官方github资源地址：<br>https://github.com/FooIbar/EhViewer/releases <br>（选择default-arm64-v8a版本下载，除非是很老的机型）</p>
+  <p> 官方github资源地址：（选择default-arm64-v8a版本下载，除非是很老的机型）<br>https://github.com/FooIbar/EhViewer/releases</p>
  
-
 ### 白e
   <img src="https://github.com/WRR2001/comics/assets/74068138/e8203be4-d78b-43e7-b3f9-7737a23d33f8" width="150">
-  <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases  <br>（选择arm64-v8a版本下载，除非是很老的机型）</p>
+  <p> 官方github资源地址：（选择arm64-v8a版本下载，除非是很老的机型）<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p><br>
 
+# 拷贝漫画 拷貝漫畫
+  <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="150"> 
+  <p>官网（大陆线路）：https://www.mangacopy.com/</p>
+  <p>官网（海外线路）：https://www.copymanga.site/</p>
+  <p>官网APP下载地址（需连接vpn才可下载） ：https://www.mangacopy.com/download</p><br>
+  
 
+  
 
 
 
