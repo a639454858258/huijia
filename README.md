@@ -14,7 +14,9 @@
 
 # 禁漫天堂 jmtt
   <img src="https://github.com/WRR2001/comics/assets/74068138/ea653887-ef83-48b0-9f8a-a591b0aa1be3" width="150">
-  <p>官网：<br>https://18comic.vip/</p><br>
+  <p>官网：<br>https://18comic.vip/</p>
+  <p>官方下载地址：<br>https://18comic.vip/stray/</p>
+<br>
 
 # EhViewer e站
  ### 绿e
