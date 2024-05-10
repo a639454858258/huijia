@@ -11,19 +11,19 @@
 <h3>目录/快速定位</h3>
 <div align="center">
   <h3>
-    <a href="#哔咔 PicACG">
+    <a href="#哔咔-picacg">
     哔咔
     </a>
     <span> | </span>
-    <a href="#禁漫天堂 jmt">
+    <a href="#禁漫天堂-jmtt">
     禁漫天堂
     </a>
     <span> | </span>
-    <a href="#EhViewer e站">
+    <a href="#ehviewer-e站">
     e站
     </a>
     <span> | </span>
-    <a href="#拷贝漫画 拷貝漫畫">
+    <a href="#拷贝漫画-拷貝漫畫">
     拷贝漫画
     </a>
   </h3>
