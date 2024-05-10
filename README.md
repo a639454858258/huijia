@@ -34,6 +34,10 @@
     <a href="#漫蛙">
     漫蛙
     </a>
+    <span> | </span>
+    <a href="#一耽女孩">
+    一耽女孩
+    </a>
   </h3>
 </div>
 
@@ -49,7 +53,8 @@
 <br>
 
 # EhViewer e站
-三个版本，官方都只有安卓版，iOS只能使用没有优化过界面的网页版，详见：https://github.com/WRR2001/comics/wiki/E%E7%AB%99%E5%8E%9F%E7%BD%91%E9%A1%B5%E8%AF%B4%E6%98%8E
+  <p>画廊站点推荐选择e-hentai</p>
+  
  ### 绿e
   <img src="https://github.com/WRR2001/comics/assets/74068138/042fa752-a021-488f-b4a2-8fd51abfa229" width="150">
   <p> 官方github资源地址：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases</p>
@@ -64,6 +69,9 @@
   <img src="https://github.com/WRR2001/comics/assets/74068138/e8203be4-d78b-43e7-b3f9-7737a23d33f8" width="130">
   <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p>
   <p> 最新版本安装包下载（仅限安卓）：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases/download/v1.8.5/EhViewer-NekoInverter-v1.8.5-arm64-v8a.apk</p><br>
+  
+### 关于IOS
+ <p>以上三个版本，都只适用于安卓，iOS只能使用没有优化过界面的网页版，详见：https://github.com/WRR2001/comics/wiki/E%E7%AB%99%E5%8E%9F%E7%BD%91%E9%A1%B5%E8%AF%B4%E6%98%8E</p><br>
 
 # 拷贝漫画 拷貝漫畫
   <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="130"> 
@@ -73,15 +81,23 @@
 
 # 香香腐宅
   <img src="https://github.com/WRR2001/comics/assets/74068138/337c7ec3-0262-4f02-b187-24f87392c82d" width="150"> 
-  <p>官网：https://boylove.cc/</p>
+  <p>官网：<br>https://boylove.cc/</p>
   <p>官方APP下载页面：https://boylove.cc/app_download</p><br>
 
 # 漫蛙
   <br>
   <img src="https://github.com/WRR2001/comics/assets/74068138/37c3a611-c6b8-4e3f-869a-86604cde0458" width="150"> 
   <br>
-  <p>官网（大陆地区）：https://fuw12.cc/mw666</p>
-  <p>官网（非大陆地区）：https://manwa.me</p><br>
+  <p>官网（大陆地区）：<br>https://fuw12.cc/mw666</p>
+  <p>官网（非大陆地区）：<br>https://manwa.me</p><br>
+
+# 一耽女孩
+ <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="150"> 
+  <p>官网：
+  <br>https://yidan.one/
+  <br>https://yidan.in/
+  <br>https://yidanyidan.com/</p>
+  <p>官方APP下载页面：https://yidan.one/#/pages/appdownload</p><br>
   
 
 
