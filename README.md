@@ -26,6 +26,14 @@
     <a href="#拷贝漫画-拷貝漫畫">
     拷贝漫画
     </a>
+    <span> | </span>
+    <a href="#香香腐宅">
+    香香腐宅
+    </a>
+    <span> | </span>
+    <a href="#漫蛙">
+    漫蛙
+    </a>
   </h3>
 </div>
 
@@ -58,10 +66,27 @@
   <p> 最新版本安装包下载（仅限安卓）：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases/download/v1.8.5/EhViewer-NekoInverter-v1.8.5-arm64-v8a.apk</p><br>
 
 # 拷贝漫画 拷貝漫畫
-  <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="150"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="130"> 
   <p>官网（大陆线路  无需vpn）：https://www.mangacopy.com/</p>
   <p>官网（海外线路）：https://www.copymanga.site/</p>
-  <p>官网APP下载页面（需连接vpn才可下载，否则安卓下载会显示暂未开放）：https://www.mangacopy.com/download</p><br>
+  <p>官方APP下载页面（需连接vpn才可下载，否则安卓下载会显示暂未开放）：https://www.mangacopy.com/download</p><br>
+
+# 香香腐宅
+  <img src="https://github.com/WRR2001/comics/assets/74068138/337c7ec3-0262-4f02-b187-24f87392c82d" width="150"> 
+  <p>官网：https://boylove.cc/</p>
+  <p>官方APP下载页面：https://boylove.cc/app_download</p><br>
+
+# 漫蛙
+  <img src="https://github.com/WRR2001/comics/assets/74068138/37c3a611-c6b8-4e3f-869a-86604cde0458" width="150"> 
+  <p>官网（大陆地区）：https://fuw12.cc/mw666</p>
+  <p>官网（非大陆地区）：https://manwa.me</p>
+  
+
+
+
+
+
+
   
 
   
