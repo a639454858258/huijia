@@ -8,6 +8,28 @@
 - 网址或APP打不开多半是网络问题，检查梯子稳定性，换线路多进几次
 - 有github账号的帮我点个star，谢谢！
 
+<h3>目录/快速定位</h3>
+<div align="center">
+  <h3>
+    <a href="#哔咔 PicACG">
+    哔咔
+    </a>
+    <span> | </span>
+    <a href="#禁漫天堂 jmt">
+    禁漫天堂
+    </a>
+    <span> | </span>
+    <a href="#EhViewer e站">
+    e站
+    </a>
+    <span> | </span>
+    <a href="#拷贝漫画 拷貝漫畫">
+    拷贝漫画
+    </a>
+  </h3>
+</div>
+
+
 # 哔咔 PicACG
    <img src="https://github.com/WRR2001/comics/assets/74068138/9e76cb79-aca4-43db-b8c3-f3626d9723d7" width="150">
    <p>官网：<br>https://www.picacomic.com/ 或<br>https://picawang.com/</p><br>
