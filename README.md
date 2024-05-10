@@ -1,10 +1,13 @@
 <h1 align="center">回家的路</h1>
-<h3>使用须知</h3>
+<h3>使用须知（花10秒钟读一下）</h3>
 
 - 不要在社交媒体APP里直接访问下面的链接，复制去浏览器打开
 - 不推荐在手机自带浏览器、QQ浏览器、UC浏览器等里访问下面的链接，很可能会被拦截。推荐Edge，Chrome等
+  
 - 大部分手机都会对这些app报毒，以下都是来自官方的链接，想用就安装并且解除管控去使用，不要说我传播病毒
 - 以下网站通常会包含大量广告内容和第三方链接，安全与否请自行甄别，最好不要乱点
+
+- 只有少数链接可以裸连，打不开请挂好梯子
 - 网址或APP打不开多半是网络问题，检查梯子稳定性，换线路多进几次
 - 有github账号的帮我点个star，谢谢！
 
@@ -79,14 +82,14 @@
 
 # 拷贝漫画 拷貝漫畫
   <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="130"> 
-  <p>官网（大陆线路  无需vpn）：https://www.mangacopy.com/</p>
-  <p>官网（海外线路）：https://www.copymanga.site/</p>
+  <p>官网：https://www.mangacopy.com/
+  <br>https://www.copymanga.site/</p>
   <p>官方APP下载页面（需连接vpn才可下载，否则安卓下载会显示暂未开放）：https://www.mangacopy.com/download</p><br>
 
 # 香香腐宅
   <img src="https://github.com/WRR2001/comics/assets/74068138/337c7ec3-0262-4f02-b187-24f87392c82d" width="150"> 
   <p>官网：<br>https://boylove.cc/</p>
-  <p>官方APP下载页面：https://boylove.cc/app_download</p><br>
+  <p>官方APP下载页面：<br>https://boylove.cc/app_download</p><br>
 
 # 漫蛙
   <br>
@@ -96,7 +99,7 @@
   <p>官网（非大陆地区）：<br>https://manwa.me</p><br>
 
 # 一耽女孩
- <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="150"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="150"> 
   <p>官网：
   <br>https://yidan.one/
   <br>https://yidan.in/
@@ -104,7 +107,7 @@
   <p>官方APP下载页面：https://yidan.one/#/pages/appdownload</p><br>
 
 # 啵乐
- <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="150"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="150"> 
   <p>官网：
   <br>https://www.bole.blue/
 
