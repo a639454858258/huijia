@@ -31,7 +31,7 @@
   <p> 最新版本安装包下载（仅限安卓）：<br>https://github.com/FooIbar/EhViewer/releases/download/1.11.4/EhViewer-1.11.4-default-arm64-v8a.apk</p>
 
 ### 白e
-  <img src="https://github.com/WRR2001/comics/assets/74068138/e8203be4-d78b-43e7-b3f9-7737a23d33f8" width="150">
+  <img src="https://github.com/WRR2001/comics/assets/74068138/e8203be4-d78b-43e7-b3f9-7737a23d33f8" width="130">
   <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p>
   <p> 最新版本安装包下载（仅限安卓）：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases/download/v1.8.5/EhViewer-NekoInverter-v1.8.5-arm64-v8a.apk</p><br>
 
