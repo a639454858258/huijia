@@ -8,7 +8,7 @@
 - 网址或APP打不开多半是网络问题，检查梯子稳定性，换线路多进几次
 - 有github账号的帮我点个star，谢谢！
 
-<h3>目录/快速定位</h3>
+<h3>目录 / 快速定位</h3>
 <div align="left">
   <h3>
     <a href="#哔咔-picacg">
@@ -77,9 +77,11 @@
   <p>官方APP下载页面：https://boylove.cc/app_download</p><br>
 
 # 漫蛙
+  <br>
   <img src="https://github.com/WRR2001/comics/assets/74068138/37c3a611-c6b8-4e3f-869a-86604cde0458" width="150"> 
+  <br>
   <p>官网（大陆地区）：https://fuw12.cc/mw666</p>
-  <p>官网（非大陆地区）：https://manwa.me</p>
+  <p>官网（非大陆地区）：https://manwa.me</p><br>
   
 
 
