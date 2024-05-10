@@ -82,9 +82,9 @@
 
 # 拷贝漫画 拷貝漫畫
   <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="130"> 
-  <p>官网：https://www.mangacopy.com/
+  <p>官网：<br>https://www.mangacopy.com/
   <br>https://www.copymanga.site/</p>
-  <p>官方APP下载页面（需连接vpn才可下载，否则安卓下载会显示暂未开放）：https://www.mangacopy.com/download</p><br>
+  <p>官方APP下载页面（需连接vpn才可下载，否则安卓下载会显示暂未开放）：<br>https://www.mangacopy.com/download</p><br>
 
 # 香香腐宅
   <img src="https://github.com/WRR2001/comics/assets/74068138/337c7ec3-0262-4f02-b187-24f87392c82d" width="150"> 
@@ -104,7 +104,7 @@
   <br>https://yidan.one/
   <br>https://yidan.in/
   <br>https://yidanyidan.com/</p>
-  <p>官方APP下载页面：https://yidan.one/#/pages/appdownload</p><br>
+  <p>官方APP下载页面：<br>https://yidan.one/#/pages/appdownload</p><br>
 
 # 啵乐
   <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="150"> 
