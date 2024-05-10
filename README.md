@@ -99,7 +99,7 @@
   <p>官网（非大陆地区）：<br>https://manwa.me</p><br>
 
 # 一耽女孩
-  <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="150"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="130"> 
   <p>官网：
   <br>https://yidan.one/
   <br>https://yidan.in/
@@ -107,7 +107,7 @@
   <p>官方APP下载页面：<br>https://yidan.one/#/pages/appdownload</p><br>
 
 # 啵乐
-  <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="150"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="130"> 
   <p>官网：
   <br>https://www.bole.blue/
 
