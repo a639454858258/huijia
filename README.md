@@ -38,6 +38,10 @@
     <a href="#一耽女孩">
     一耽女孩
     </a>
+    <span> | </span>
+    <a href="#啵乐">
+    啵乐
+    </a>
   </h3>
 </div>
 
@@ -98,6 +102,15 @@
   <br>https://yidan.in/
   <br>https://yidanyidan.com/</p>
   <p>官方APP下载页面：https://yidan.one/#/pages/appdownload</p><br>
+
+# 啵乐
+ <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="150"> 
+  <p>官网：
+  <br>https://www.bole.blue/
+
+
+
+
   
 
 
