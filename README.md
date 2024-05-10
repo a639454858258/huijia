@@ -9,7 +9,7 @@
 - 有github账号的帮我点个star，谢谢！
 
 <h3>目录/快速定位</h3>
-<div align="center">
+<div align="left">
   <h3>
     <a href="#哔咔-picacg">
     哔咔
