@@ -65,19 +65,19 @@
   
  ### 绿e
   <img src="https://github.com/WRR2001/comics/assets/74068138/042fa752-a021-488f-b4a2-8fd51abfa229" width="150">
+  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/1.9.8.0/EhViewer-1.9.8.0.apk</p>
   <p> 官方github资源地址：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases</p>
-  <p> 最新版本安装包下载（仅限安卓）：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/1.9.8.0/EhViewer-1.9.8.0.apk</p>
+  
   
 ### 彩e
   <img src="https://github.com/WRR2001/comics/assets/74068138/14e428e7-f304-4c4b-8626-feafb69c82fc" width="150">
+  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/FooIbar/EhViewer/releases/download/1.11.4/EhViewer-1.11.4-default-arm64-v8a.apk</p>
   <p> 官方github资源地址：<br>https://github.com/FooIbar/EhViewer/releases</p>
-  <p> 最新版本安装包下载（仅限安卓）：<br>https://github.com/FooIbar/EhViewer/releases/download/1.11.4/EhViewer-1.11.4-default-arm64-v8a.apk</p>
-
+  
 ### 白e
   <img src="https://github.com/WRR2001/comics/assets/74068138/e8203be4-d78b-43e7-b3f9-7737a23d33f8" width="130">
-  <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p>
-  <p> 最新版本安装包下载（仅限安卓）：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases/download/v1.8.6/EhViewer-NekoInverter-v1.8.6-arm64-v8a.apk</p><br>
- 
+  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases/download/v1.8.6/EhViewer-NekoInverter-v1.8.6-arm64-v8a.apk</p>
+  <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p><br>
   
 ### 关于IOS
  <p>以上三个版本，都只适用于安卓，iOS只能使用没有优化过界面的网页版，详见：https://github.com/WRR2001/comics/wiki/E%E7%AB%99%E5%8E%9F%E7%BD%91%E9%A1%B5%E8%AF%B4%E6%98%8E</p><br>
@@ -96,7 +96,7 @@
 # 漫蛙
   <br>
   <img src="https://github.com/WRR2001/comics/assets/74068138/37c3a611-c6b8-4e3f-869a-86604cde0458" width="150"> 
-  <br>
+  <br><br>
   <p>官网（大陆地区）：<br>https://fuw12.cc/mw666</p>
   <p>官网（非大陆地区）：<br>https://manwa.me</p><br>
 
