@@ -72,7 +72,7 @@
   
 ### 彩e
   <img src="https://github.com/WRR2001/comics/assets/74068138/14e428e7-f304-4c4b-8626-feafb69c82fc" width="150">
-  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/FooIbar/EhViewer/releases/download/1.11.4/EhViewer-1.11.4-default-arm64-v8a.apk</p>
+  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/FooIbar/EhViewer/releases/download/1.11.5/EhViewer-1.11.5-default-arm64-v8a.apk</p>
   <p> 官方github资源地址：<br>https://github.com/FooIbar/EhViewer/releases</p>
   
 ### 白e
