@@ -80,7 +80,7 @@
   <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases/download/v1.8.6/EhViewer-NekoInverter-v1.8.6-arm64-v8a.apk</p>
   <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p><br>
   
-### 关于IOS
+### 关于IOS 🍎
  <p>以上三个版本，都只适用于安卓，iOS只能使用没有优化过界面的网页版，详见：https://github.com/WRR2001/comics/wiki/E%E7%AB%99%E5%8E%9F%E7%BD%91%E9%A1%B5%E8%AF%B4%E6%98%8E</p><br>
 
 # 拷贝漫画 拷貝漫畫
