@@ -11,6 +11,8 @@
 - 网址或APP打不开多半是网络问题，检查梯子稳定性，换线路多进几次
 - 有github账号的帮我点个star，谢谢！
 
+- 也可代找漫画发给你，需小偿
+
 <h3>目录 / 快速定位</h3>
 <div align="left">
   <h3>
@@ -45,6 +47,11 @@
     <a href="#啵乐">
     啵乐
     </a>
+    <span> | </span>
+    <a href="#自愿投喂区">
+    自愿投喂区
+    </a>
+    <span> | </span>
   </h3>
 </div>
 
@@ -81,7 +88,7 @@
   <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p><br>
   
 ### 关于IOS 🍎
- <p>以上三个版本，都只适用于安卓，iOS只能使用没有优化过界面的网页版，详见：https://github.com/WRR2001/comics/wiki/E%E7%AB%99%E5%8E%9F%E7%BD%91%E9%A1%B5%E8%AF%B4%E6%98%8E</p><br>
+ <p>以上三个版本的E站APP，都只适用于安卓。iOS只能使用没有优化过界面的网页版，详见：https://github.com/WRR2001/comics/wiki/E%E7%AB%99%E5%8E%9F%E7%BD%91%E9%A1%B5%E8%AF%B4%E6%98%8E</p><br>
 
 # 拷贝漫画 拷貝漫畫
   <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="130"> 
@@ -112,7 +119,15 @@
 # 啵乐
   <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="130"> 
   <p>官网：
-  <br>https://www.bole.blue/
+  <br>https://www.bole.blue/<br><br>
+
+# 自愿投喂区
+### 微信 Wechat 🧧
+<img src="https://github.com/WRR2001/comics/assets/74068138/106a21db-6e5f-41d0-a8e4-611fe16c951f" width="200"> <br>
+### 支付宝 Alipay 🧧
+<img src="https://github.com/WRR2001/comics/assets/74068138/d2cfa215-7204-4eae-a1df-fc720aacac18" width="200"> 
+
+
 
 
 
