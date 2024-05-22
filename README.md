@@ -57,12 +57,12 @@
 
 
 # 哔咔 PicACG
-   <img src="https://github.com/WRR2001/comics/assets/74068138/9e76cb79-aca4-43db-b8c3-f3626d9723d7" width="150">
+   <img src="https://github.com/WRR2001/comics/assets/74068138/9e76cb79-aca4-43db-b8c3-f3626d9723d7" width="135">
    <p>官网：<br>https://picawang.com/ 或<br>https://www.picacomic.com/</p><br>
    
 
 # 禁漫天堂 jmtt
-  <img src="https://github.com/WRR2001/comics/assets/74068138/ea653887-ef83-48b0-9f8a-a591b0aa1be3" width="150">
+  <img src="https://github.com/WRR2001/comics/assets/74068138/ea653887-ef83-48b0-9f8a-a591b0aa1be3" width="140">
   <p>官网：<br>https://18comic.vip/</p>
   <p>官方APP下载页面：<br>https://18comic.vip/stray/</p>
 <br>
@@ -83,7 +83,7 @@
   <p> 官方github资源地址：<br>https://github.com/FooIbar/EhViewer/releases</p>
   
 ### 白e
-  <img src="https://github.com/WRR2001/comics/assets/74068138/e8203be4-d78b-43e7-b3f9-7737a23d33f8" width="130">
+  <img src="https://github.com/WRR2001/comics/assets/74068138/e8203be4-d78b-43e7-b3f9-7737a23d33f8" width="126">
   <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases/download/v1.8.6/EhViewer-NekoInverter-v1.8.6-arm64-v8a.apk</p>
   <p> 官方github资源地址：<br>https://github.com/EhViewer-NekoInverter/EhViewer/releases</p><br>
   
@@ -91,7 +91,7 @@
  <p>以上三个版本的E站APP，都只适用于安卓。iOS只能使用没有优化过界面的网页版，详见：https://github.com/WRR2001/comics/wiki/E%E7%AB%99%E5%8E%9F%E7%BD%91%E9%A1%B5%E8%AF%B4%E6%98%8E</p><br>
 
 # 拷贝漫画 拷貝漫畫
-  <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="130"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="120"> 
   <p>官网：<br>https://www.mangacopy.com/
   <br>https://www.copymanga.site/</p>
   <p>官方APP下载页面（需连接vpn才可下载，否则安卓下载会显示暂未开放）：<br>https://www.mangacopy.com/download</p><br>
@@ -109,7 +109,7 @@
   <p>官网（非大陆地区）：<br>https://manwa.me</p><br>
 
 # 一耽女孩
-  <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="130"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="120"> 
   <p>官网：
   <br>https://yidan.one/
   <br>https://yidan.in/
@@ -117,7 +117,7 @@
   <p>官方APP下载页面：<br>https://yidan.one/#/pages/appdownload</p><br>
 
 # 啵乐
-  <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="130"> 
+  <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="120"> 
   <p>官网：
   <br>https://www.bole.blue/<br><br>
 
