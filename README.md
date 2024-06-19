@@ -74,7 +74,7 @@
   
  ### 绿e
   <img src="https://github.com/WRR2001/comics/assets/74068138/042fa752-a021-488f-b4a2-8fd51abfa229" width="150">
-  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/1.9.8.0/EhViewer-1.9.8.0.apk</p>
+  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/1.9.8.1/EhViewer-1.9.8.1.apk</p>
   <p> 官方github资源地址：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases</p>
   
   
