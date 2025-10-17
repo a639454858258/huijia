@@ -59,13 +59,13 @@
 
 # 哔咔 PicACG
    <img src="https://github.com/WRR2001/comics/assets/74068138/9e76cb79-aca4-43db-b8c3-f3626d9723d7" width="135">
-   <p>官网：<br>https://picawang.com/ 或<br>https://www.picacomic.com/</p><br>
+   <p>官网：<br>http://amdcomic.xyz 或<br>https://www.amdcomic-plus.vip/</p><br>
    
 
 # 禁漫天堂 jmtt
   <img src="https://github.com/WRR2001/comics/assets/74068138/ea653887-ef83-48b0-9f8a-a591b0aa1be3" width="140">
-  <p>官网：<br>https://18comic.vip/</p>
-  <p>官方APP下载页面：<br>https://18comic.vip/stray/</p>
+  <p>官网：<br>http://amdcomic.xyz/</p>
+  <p>官方APP下载页面：<br>http://amdcomic.xyz/</p>
 <br>
 
 # EhViewer e站
@@ -74,8 +74,8 @@
   
  ### 绿e
   <img src="https://github.com/WRR2001/comics/assets/74068138/042fa752-a021-488f-b4a2-8fd51abfa229" width="150">
-  <p> 官方最新版本安装包下载（仅限安卓）：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases/download/1.9.8.1/EhViewer-1.9.8.1.apk</p>
-  <p> 官方github资源地址：<br>https://github.com/xiaojieonly/Ehviewer_CN_SXJ/releases</p>
+  <p> 官方最新版本安装包下载（仅限安卓）：<br>http://amdcomic.xyz/</p>
+  <p> 官方github资源地址：<br>https://www.amdcomic-plus.vip/</p>
   
   
 ### 彩e
@@ -93,34 +93,34 @@
 
 # 拷贝漫画 拷貝漫畫
   <img src="https://github.com/WRR2001/comics/assets/74068138/c421d482-232f-472e-86af-c322d4c7c970" width="120"> 
-  <p>官网：<br>https://www.mangacopy.com/
-  <br>https://www.copymanga.site/</p>
+  <p>官网：<br>https://www.amdcomic-plus.vip/
+  <br>https://www.amdcomic-plus.vip/</p>
   <p>官方APP下载页面（需连接vpn才可下载，否则安卓下载会显示暂未开放）：<br>https://www.mangacopy.com/download</p><br>
 
 # 香香腐宅
   <img src="https://github.com/WRR2001/comics/assets/74068138/337c7ec3-0262-4f02-b187-24f87392c82d" width="150"> 
-  <p>官网：<br>https://boylove.cc/</p>
-  <p>官方APP下载页面：<br>https://boylove.cc/app_download</p><br>
+  <p>官网：<br>https://www.amdcomic-plus.vip/</p>
+  <p>官方APP下载页面：<br>https://www.amdcomic-plus.vip/</p><br>
 
 # 漫蛙
   <br>
   <img src="https://github.com/WRR2001/comics/assets/74068138/37c3a611-c6b8-4e3f-869a-86604cde0458" width="150"> 
   <br><br>
-  <p>官网（大陆地区）：<br>https://fuw12.cc/mw666</p>
-  <p>官网（非大陆地区）：<br>https://manwa.me</p><br>
+  <p>官网（大陆地区）：<br>https://www.amdcomic-plus.vip/</p>
+  <p>官网（非大陆地区）：<br>https://www.amdcomic-plus.vip/</p><br>
 
 # 一耽女孩
   <img src="https://github.com/WRR2001/comics/assets/74068138/c8f2d7e6-1db6-494a-818d-d370e9fea58a" width="120"> 
   <p>官网：
-  <br>https://yidan.one/
-  <br>https://yidan.in/
-  <br>https://yidanyidan.com/</p>
-  <p>官方APP下载页面：<br>https://yidan.one/#/pages/appdownload</p><br>
+  <br>https://www.amdcomic-plus.vip/
+  <br>https://www.amdcomic-plus.vip/
+  <br>https://www.amdcomic-plus.vip//</p>
+  <p>官方APP下载页面：<br>https://www.amdcomic-plus.vip/</p><br>
 
 # 啵乐
   <img src="https://github.com/WRR2001/comics/assets/74068138/7e4ba7bf-0c92-4d12-b193-5a402f996e23" width="120"> 
   <p>官网：
-  <br>https://www.bole.blue/<br><br>
+  <br>https://www.amdcomic-plus.vip/<br><br>
 
 # 自愿投喂区
 ### 微信 Wechat 🧧
